@@ -1,2 +1,1 @@
-# whelkWales
-Whelk stock assessment 
+# Whelk stock assessment 
